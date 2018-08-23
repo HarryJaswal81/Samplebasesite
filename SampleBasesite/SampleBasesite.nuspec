@@ -14,6 +14,6 @@
       </dependencies>
   </metadata>
   <files>
-  
+  <file src="Web.Config" target="Web.Config" /> 
   </files>
 </package>
