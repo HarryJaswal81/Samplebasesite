@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.00</version>
+    <authors>Harry Jaswal</authors>
+    <owners>Harry Jaswal</owners>
+    <id>SampleBasesite</id>
+    <title>SampleBasesite</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample Description</description>
+    <copyright></copyright>
+    <dependencies>
+       
+      </dependencies>
+  </metadata>
+  <files>
+    <file src="SampleBasesite\Web.config" target="SampleBasesite\Web.config" />
+  </files>
+</package>
