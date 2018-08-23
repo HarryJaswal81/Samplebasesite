@@ -18,6 +18,6 @@
   <file src="Global.asax" target="Global.asax" /> 
   <file src="favicon.ico" target="favicon.ico" /> 
   <file src="packages.config" target="packages.config" />  
-  <file src="fonts\**" target="fonts\**" />  
+  <file src="fonts\*" target="fonts\*" />  
   </files>
 </package>
