@@ -14,6 +14,6 @@
       </dependencies>
   </metadata>
   <files>
-    <file src="SampleBasesite\Web.config" target="SampleBasesite\Web.config" />
+    <file src="\Web.config" target="\Web.config" /> 
   </files>
 </package>
